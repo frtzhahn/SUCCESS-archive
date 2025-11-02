@@ -2,7 +2,8 @@
 
 #include "pages/introduction.h"
 
-void enableVirtualTerminal() {
+void enableVirtualTerminal()
+{
 #ifdef _WIN32
   // enable ANSI support for windows cmd
   HANDLE hOut = GetStdHandle(STD_OUTPUT_HANDLE);
@@ -21,13 +22,15 @@ void enableVirtualTerminal() {
 #endif
 }
 
-int main(void) {
+int main(void)
+{
   // Set locale BEFORE calling any curses functions
   setlocale(LC_ALL, "en_US.UTF-8");
 
 // On Windows, try UTF-8 locale if the above fails
 #ifdef _WIN32
-  if (!setlocale(LC_ALL, "en_US.UTF-8")) {
+  if (!setlocale(LC_ALL, "en_US.UTF-8"))
+  {
     setlocale(LC_ALL, "C.UTF-8");
   }
 #endif
