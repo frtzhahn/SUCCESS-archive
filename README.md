@@ -76,6 +76,8 @@ idk the rest-->
 
 <h3 align="left">GALLERY</h3>
 <img src="gallery/first-pr.png">
+<img src="gallery/canva.png">
+<img src="gallery/proposal.png">
 
 <br>
 <hr>
