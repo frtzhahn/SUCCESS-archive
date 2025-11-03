@@ -34,7 +34,7 @@ Restricted to UCCians users: This platform only primarily focuses on users withi
 This system only used C programming langauge as its backbone for almost every function, hindering the ability of many users to access it  (we have no choice either way but to comply with our prof)
 
 </p>
-<hr>
+<!--<hr> commented out will bring back soon
 <h3 align="left">HOW DOES THIS SYSTEM WORK?</h3>
 
 	I have no idea what to put here actually
@@ -52,7 +52,7 @@ If you have one create a file directory anywhere you want just make sure to copy
 Go on you terminal and type cd (file path of the directory you've made earlier)<br><br>
 Copy the url of the repo of this system https://github.com/aikhe/success.git <br><br>
 Clone the global repo into the directory you've made earlier by typing git clone (repo url)<br><br>
-idk the rest
+idk the rest-->
 
 
 </p>
