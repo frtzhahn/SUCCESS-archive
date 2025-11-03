@@ -78,6 +78,7 @@ idk the rest-->
 <img src="gallery/first-pr.png">
 <img src="gallery/canva.png">
 <img src="gallery/proposal.png">
+<img src="gallery/cli.png">
 
 <br>
 <hr>
