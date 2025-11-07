@@ -74,11 +74,14 @@ idk the rest-->
 
 <hr>
 
-<h3 align="left">GALLERY</h3>
+<h3>GALLERY</h3>
+<img src="gallery/student.png">
+<img src="gallery/teacher.png">
+<img src="gallery/image.png">
 <img src="gallery/first-pr.png">
-<img src="gallery/canva.png">
 <img src="gallery/proposal.png">
 <img src="gallery/cli.png">
+
 
 <br>
 <hr>
