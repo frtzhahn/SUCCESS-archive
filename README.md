@@ -52,7 +52,7 @@ If you have one create a file directory anywhere you want just make sure to copy
 Go on you terminal and type cd (file path of the directory you've made earlier)<br><br>
 Copy the url of the repo of this system https://github.com/aikhe/success.git <br><br>
 Clone the global repo into the directory you've made earlier by typing git clone (repo url)<br><br>
-idk the rest.-->
+idk the rest-->
 
 
 </p>
